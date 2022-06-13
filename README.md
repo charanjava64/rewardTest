@@ -1,2 +1,3 @@
 # reward
-This is a reward repository
+Charter Communications 
+Assessment test
